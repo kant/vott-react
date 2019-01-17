@@ -34,6 +34,7 @@
     "@storybook/react": "^4.0.0-alpha.20",
     "@tulipjs/eslint-config": "^1.1.1",
     "@types/react": "^16.7.20",
+    "@types/jest": "23.3.9",
     "babel-loader": "^8.0.1",
     "jest-enzyme": "^7.0.1",
     "enzyme": "^3.7.0",

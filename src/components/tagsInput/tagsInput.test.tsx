@@ -1,10 +1,10 @@
 import { mount } from "enzyme";
 import React from "react";
-import MockFactory from "../../../../common/mockFactory";
+import MockFactory from "../../common/mockFactory";
 import { KeyCodes } from "../../common/utils";
 import TagsInput, { ITagsInputProps } from "./tagsInput";
 // tslint:disable-next-line:no-var-requires
-// const TagColors = require("./tagColors.json");
+const TagColors = require("./tagColors.json");
 
 describe("Tags Input Component", () => {
 
